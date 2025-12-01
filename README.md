@@ -1,9 +1,8 @@
-<h1 align="center">Hey there, I am Pang!</h1>
+<h1 align="center">Hey there👋 I am Pang!</h1>
 <p align="center">Passionate about data engineering, analytics, and machine learning.</p>
 
 ###
 
-<h2 align="center">🛠️ Tech Stack</h2>
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
@@ -31,8 +30,6 @@
 </div>
 
 <br />
-
-<h2 align="center">🚀 Notable Projects</h2>
 
 | Project | Description |
 | :--- | :--- |
