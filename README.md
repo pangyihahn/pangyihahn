@@ -34,6 +34,7 @@
 
 <h2 align="center">🚀 Notable Projects</h2>
 
+| :--- | :--- |
 | **LLM-Powered Knowledge Graph Extractor** <br> <sub>[View on GitHub](https://github.com/godhahn/llm-kg-project)</sub> | Built a 4-step LLM pipeline to extract and visualize an interactive knowledge graph from unstructured text |
 | **SGX Derivatives Data Downloader CLI** <br> <sub>[View on GitHub](https://github.com/godhahn/sgx-project)</sub> | Built a Python CLI tool to automate SGX derivatives data retrieval with retry, logging, and scheduling support |
 | **Real-Time Stock Streaming Dashboard** <br> <sub>[View on GitHub](https://github.com/godhahn/kafka-project)</sub> | Developed a real-time stock trading simulator with Kafka streaming and interactive Streamlit dashboard |
