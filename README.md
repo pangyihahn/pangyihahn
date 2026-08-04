@@ -4,8 +4,6 @@
 
 <br />
 
-### Skills
-
 * **Languages & Frameworks:** Python (Pandas, NumPy, FastAPI, PyTorch, Scikit-learn), SQL, Java, R, Angular
 * **Data Tools:** Spark (PySpark), Airflow, Kafka, dbt, Snowflake, Fabric, PostgreSQL, MongoDB, DuckDB
 * **Cloud, DevOps & Analytics:** GCP (BigQuery), Azure, Docker, Git, CI/CD, Tableau, Power BI, Excel
