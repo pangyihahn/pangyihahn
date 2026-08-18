@@ -4,7 +4,11 @@
 
 <br />
 
-* **Languages & Frameworks:** Python (Pandas, NumPy, FastAPI, PyTorch, Scikit-learn), SQL, Java, R, Angular
-* **Data Tools:** Spark (PySpark), Airflow, Kafka, dbt, Snowflake, Fabric, PostgreSQL, MongoDB, DuckDB
-* **Cloud, DevOps & Analytics:** GCP (BigQuery), Azure, Docker, Git, CI/CD, Tableau, Power BI, Excel
+* **Languages:** Python, SQL, Java, R
+* **Data Processing & Orchestration:** Apache Spark (PySpark), Apache Airflow, Apache Kafka, dbt
+* **Data Platforms & Databases:** Snowflake, Google BigQuery, Microsoft Fabric, PostgreSQL, MongoDB, DuckDB
+* **Cloud & DevOps:** Google Cloud (GCP), Microsoft Azure, Docker, Git, CI/CD
+* **Machine Learning & Data Science:** Pandas, NumPy, PyTorch, Scikit-learn
+* **Software Engineering & Web:** FastAPI, Angular, Streamlit
+* **BI & Analytics:** Tableau, Microsoft Power BI, Microsoft Excel
 * **Certifications:** AWS Certified Cloud Practitioner, Databricks Certified Data Engineer Associate
